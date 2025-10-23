@@ -14,7 +14,7 @@
 
 - 🎯 I'm currently studying **Computer Science**  
 - 🧠 Interested in **Algorithms**, **Operating Systems**, and **Software Development**  
-- 🌱 Currently learning **JavaFX** and **Data Structures**  
+- 🌱 Currently learning **JavaFX** and **Database**  
 - 💬 Ask me about **Java, Linux, or anything tech!**  
 - ⚡ Fun fact: I love clean code and dark themes 😎  
 
