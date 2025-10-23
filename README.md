@@ -2,7 +2,7 @@
 <!--         👨‍💻 GitHub Profile for Computer Science Student        -->
 <!-- ============================================================ -->
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#BD93F9;">Ali Ashour</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#BD93F9;">Ali Sweilam</span></h1>
 
 <p align="center">
   🎓 Computer Science Student &nbsp;|&nbsp; 💻 Passionate about Coding & Problem Solving  
@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAshour&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAshour&layout=compact&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Sweilam&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sweilam&layout=compact&theme=dracula" height="160"/>
 </p>
 
 ---
