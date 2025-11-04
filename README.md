@@ -1,92 +1,67 @@
 <!-- ============================================================ -->
-<!--         🧠 Modern & Animated GitHub Profile – Ali Sweilam     -->
+<!--         👨‍💻 Classic & Professional GitHub Profile            -->
 <!-- ============================================================ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Hey+there+👋;I'm+Ali+Sweilam;Computer+Science+Student;JavaFX+Developer;Problem+Solver+💡" alt="Typing Animation" />
-</h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#BD93F9;">Ali Sweilam</span></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45" />  
-  <b>Passionate about coding, learning, and building creative solutions 🚀</b>
+  🎓 Computer Science Student &nbsp;|&nbsp; 💻 JavaFX Developer &nbsp;|&nbsp; 🧠 Problem Solver
 </p>
 
 ---
 
-### 🧩 About Me
+### 🚀 About Me
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 I'm a **Computer Science Student**  
-- 💻 Currently working on **JavaFX projects**  
-- 🧠 Interested in **Operating Systems**, **Algorithms**, and **Clean Code**  
-- 🌱 Learning **Databases** and **UI/UX design**  
-- ⚡ Fun fact: I love dark themes and pixel-perfect UIs 🖤  
+- 🎯 I'm a **Computer Science student** passionate about building efficient and clean applications  
+- 🧩 Interested in **Algorithms**, **Operating Systems**, and **Software Development**  
+- 🌱 Currently learning **JavaFX**, **Databases**, and **UI Design**  
+- 💬 Ask me about **Java, Linux, Git, or project structure**  
+- ⚡ Fun fact: I prefer dark themes and minimalistic UIs 😎  
 
 ---
 
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/80/java-coffee-cup-logo--v1.gif"/>
-  <img src="https://img.icons8.com/color/80/python--v1.gif"/>
-  <img src="https://img.icons8.com/color/80/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/80/linux--v1.gif"/>
-  <img src="https://img.icons8.com/color/80/git.png"/>
-  <img src="https://img.icons8.com/color/80/github--v1.png"/>
-  <img src="https://img.icons8.com/color/80/scene-builder.png"/>
-  <img src="https://img.icons8.com/color/80/intellij-idea.png"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Sweilam&show_icons=true&theme=dracula&hide_border=true&border_radius=20" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sweilam&layout=compact&theme=dracula&hide_border=true&border_radius=20" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ali-Sweilam&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Sweilam&show_icons=true&theme=dracula&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sweilam&layout=compact&theme=dracula&hide_border=false" height="160"/>
 </p>
 
 ---
 
-### 💼 Featured Projects
+### 🧩 Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [💰 Expense Manager](https://github.com/Ali-Sweilam/LibraryManager) | A beautiful desktop app for managing library | JavaFX, CSV |
-| [⚙️ OS Memory Simulator](https://github.com/AliAshour/OS-MemoryManagement) | Memory management algorithm visualizer | Java |
-| [📘 Algorithms Collection](https://github.com/AliAshour/Algorithms) | Classical algorithms & data structures | Java, C++ |
+| [📚 Library Manager](https://github.com/Ali-Sweilam/LibraryManager) | A JavaFX desktop app for managing library | JavaFX, CSV |
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:aliashour@example.com">
-    <img src="https://img.icons8.com/fluent/64/gmail-new.png" width="60"/>
-  </a>
-  <a href="https://linkedin.com/in/aliashour">
-    <img src="https://img.icons8.com/fluent/64/linkedin.png" width="60"/>
-  </a>
-  <a href="https://github.com/AliAshour">
-    <img src="https://img.icons8.com/fluent/64/github.png" width="60"/>
-  </a>
-</p>
-
----
-
-### 🪄 GitHub Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ali-Sweilam/Ali-Sweilam/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <a href="ali.sweilem@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ali-sweilam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Ali-Sweilam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/><br>
-  <b>"Code. Debug. Repeat. ☕"</b>
+  🖤 “Code. Debug. Repeat.”  
 </p>
