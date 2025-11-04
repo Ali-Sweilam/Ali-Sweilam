@@ -1,8 +1,10 @@
 <!-- ============================================================ -->
-<!--         👨‍💻 GitHub Profile for Computer Science Student        -->
+<!--         ✨ Animated GitHub Profile for Computer Science Student        -->
 <!-- ============================================================ -->
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#BD93F9;">Ali Sweilam</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Ali+Sweilam;Computer+Science+Student;Passionate+about+Coding+%26+Problem+Solving" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   🎓 Computer Science Student &nbsp;|&nbsp; 💻 Passionate about Coding & Problem Solving  
@@ -23,22 +25,20 @@
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,linux,git,github,vscode,idea,sqlite" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ali-Sweilam&show_icons=true&theme=dracula" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sweilam&layout=compact&theme=dracula" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ali-Sweilam&theme=dracula&hide_border=false" height="180"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [💰 Expense Manager](https://github.com/AliAshour/ExpenseManager-JavaFX) | A simple JavaFX app for managing expenses & income | JavaFX, CSV |
+| [💰 Expense Manager](https://github.com/Ali-Sweilam/LibraryManager) | A simple JavaFX app for managing Library | JavaFX, CSV |
 | [⚙️ OS Memory Simulator](https://github.com/AliAshour/OS-MemoryManagement) | Simulation for memory partitioning & paging algorithms | Java |
 | [📘 Algorithms Collection](https://github.com/AliAshour/Algorithms) | Implementations of classical algorithms & data structures | Java, C++ |
 
@@ -63,6 +63,15 @@
 
 ---
 
+### 🪄 Fun Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ali-Sweilam/Ali-Sweilam/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   🖤 "Code, Debug, Repeat"  
 </p>
+
